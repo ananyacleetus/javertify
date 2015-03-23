@@ -9,8 +9,8 @@
     "update_url": "https://clients2.google.com/service/update2/crx",
     "version": "1.0",
     "icons": {
-        "16": "http://i.imgur.com/zVpt0Q6.png",
-        "48": "http://i.imgur.com/jFXRFhz.png",
-        "128": "http://i.imgur.com/LdZVuhN.png"
+        "16": "16.png",
+        "48": "48.png",
+        "128": "128.png"
     }
 }
