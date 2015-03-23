@@ -1,7 +1,7 @@
 (function($) {
-    var self = $.nithi = new function(){};
+    var self = $.javert = new function(){};
     $.extend(self, {
-        nithiImgs : [
+        javertImgs : [
 			"http://i.imgur.com/oWZuIqa.png",
 			"http://i.imgur.com/vIymbNq.png",
 			"http://i.imgur.com/DL4f66M.png",
@@ -59,6 +59,6 @@
         }
     });
     $(function(){
-        self.handleImages(self.nithiImgs, 3000);
+        self.handleImages(self.javertImgs, 3000);
     });
 })(jQuery);
