@@ -4,11 +4,11 @@
       "matches": [ "http://*/*", "https://*/*" ]
    } ],
    "description": "Replaces all images on all pages to Javert",
-   "manifest_version": 2,
+   "manifest_version": 1,
    "name": "Ananya Cleetus",
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "1.2",
+   "version": "1.0",
    "icons": { "16": "http://i.imgur.com/QOAca3S.png",
            "48": "http://i.imgur.com/RaGzYGF.png",
-          "128": "http://i.imgur.com/tkmXsog.png" },
+          "128": "http://i.imgur.com/tkmXsog.png"}
 }
