@@ -5,7 +5,7 @@
    } ],
    "description": "Replaces all images on all pages to Javert",
    "manifest_version": 2,
-   "name": "Ananya Cleetus",
+   "name": "Javertify",
    "update_url": "https://clients2.google.com/service/update2/crx",
    "version": "1.0",
    "icons": { "16": "http://i.imgur.com/QOAca3S.png",
