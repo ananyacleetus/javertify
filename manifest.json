@@ -8,4 +8,7 @@
    "name": "Ananya Cleetus",
    "update_url": "https://clients2.google.com/service/update2/crx",
    "version": "1.2"
+   "icons": { "16": "http://i.imgur.com/QOAca3S.png",
+           "48": "http://i.imgur.com/RaGzYGF.png",
+          "128": "http://i.imgur.com/tkmXsog.png" },
 }
